@@ -13,6 +13,10 @@ class MainActivity : ListActivity() {
     }
 
     companion object {
-        val items = arrayOf("I'm", "You're", "He's", "She's", "It's", "We're", "You're", "They are")
+        val items = arrayOf(
+            "I'm", "You're", "He's", "She's", "It's", "We're", "You're", "They are",
+            "I'm", "You're", "He's", "She's", "It's", "We're", "You're", "They are",
+            "I'm", "You're", "He's", "She's", "It's", "We're", "You're", "They are"
+        )
     }
 }
